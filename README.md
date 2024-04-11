@@ -12,6 +12,9 @@ VS Code 에서 MySQL Shell extention을 이용해 MySQL HeatWave 서비스에 �
 - VS Code 앱에서 왼쪽의 새로 만들어진 MySQL Shell 메뉴(돌고래모양) 클릭 > 화면의 New Connection 클릭
 ![newconnection](image-1.png)
 
-- Database Connection Configuration 설정
-Database type은 mysql로 설정 후 **Basic탭**에서 MySQL HeatWave 서비스 private IP와 관리자 ID 입력
+- Database Connection Configuration 설정 <br>
+  * Database type은 mysql로 설정 후 **Basic 탭**에서 MySQL HeatWave 서비스 private IP와 관리자 ID 입력
 ![setconnectionconf](image-2.png)
+
+  * **SSH Tunnel 탭**에서 SSH URI에 opc@베스천서버의 IP 를 입력하고 SSH Private Key File 에 프라이빗키 파일위치를 명시해줌
+  ![sshtunnelinfo](image-3.png)
