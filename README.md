@@ -23,5 +23,5 @@ VS Code 에서 MySQL Shell extention을 이용해 MySQL HeatWave 서비스에 �
   ![idpwd](image-4.png)
 
   ### 3. MySQL Shell에서 SQL 쿼리 실행
-  - 쿼리 작성 후 위의 번개모양을 클리하면 실행됨
+  - 쿼리 작성 후 위의 번개모양을 클릭하면 실행됨
   ![excutequery](image-5.png)
