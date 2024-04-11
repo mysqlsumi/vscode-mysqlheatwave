@@ -18,3 +18,9 @@ VS Code 에서 MySQL Shell extention을 이용해 MySQL HeatWave 서비스에 �
 
   * **SSH Tunnel 탭**에서 SSH URI에 opc@베스천서버의 IP 를 입력하고 SSH Private Key File 에 프라이빗키 파일위치를 명시해줌
   ![sshtunnelinfo](image-3.png)
+
+  * 생성된 connection을 클릭해주면 ID/Password 넣는 화면이 나오고 패스워드를 넣어주면 연결
+  ![idpwd](image-4.png)
+
+  ### 3. MySQL Shell에서 SQL 쿼리 실행
+  ![excutequery](image-5.png)
